@@ -32,9 +32,11 @@ Tilføj kontruktører på Bibliotek
 
 Udskriv tal for 1 til 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 
-Udskriv ulige tal fra 1 til 10: 1, 3, 5, 7, 9 (hint: brug modulus 2 - %2 eller inkrement større end 1)
+Udskriv ulige tal fra 1 til 10: 1, 3, 5, 7, 9 (hint: brug inkrement større end 1)
 
-Udskriv lige tal fra 1 til 10: 2, 4, 6, 8, 10 (
+Udskriv lige tal fra 1 til 10: 2, 4, 6, 8, 10
+
+Udskriv tal fra 10 til 0: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 (hint: inkrement...)
 
 1 . Print the folowing to the console using a for loop.
 
